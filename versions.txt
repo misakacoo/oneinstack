@@ -93,7 +93,7 @@ pureftpd_ver=1.0.52
 # Redis
 redis_ver=8.4.0
 redis_oldver=7.4.2
-pecl_redis_ver=6.3.0
+pecl_redis_ver=6.2.17
 
 # Memcached
 memcached_ver=1.6.19
